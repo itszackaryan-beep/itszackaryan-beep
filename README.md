@@ -17,19 +17,6 @@ EMAIL: **sumitkumarthakur4267@gmail.com**For enquiry
   <img src="https://skillicons.dev/icons?i=linux,windows,bash,powershell,python,aws,azure,docker,kubernetes,git,github,gitlab" />
 </p>
 
----
-
-
-## 🌐 Connect With Me  
-
-<p align="center">
-<a href="https://x.com/technosnag"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/technosnag/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://www.youtube.com/c/technosnag"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
-<a href="mailto:technosnag@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</p>
-
----
 
 ### 🎯 Fun Fact  
 > _"There are two types of companies: those who have been hacked and those who don’t know they have been hacked yet!"_ 🚀  
