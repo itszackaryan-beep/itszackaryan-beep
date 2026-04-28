@@ -1,4 +1,4 @@
-# 💫 About Me: SUMIT KUMAR
+# 💫 About Me: SUMIT KUMAR Cybersecurity Analyst & Ethical Hacker 🔐 
 🚀 About Me<br>🔹 Ethical Hacker | Penetration Tester | Cybersecurity Analyst<br>🔹 Expert in Web Security, Network Defense, and Red Teaming<br>🔹 Passionate about Threat Intelligence, SIEM, and Digital Forensics<br>🔹 Strong skills in OSINT, Incident Response, and Secure Coding<br>🔹 Cybersecurity Trainer & Speaker 🎤
 ## 🏴‍☠️ Skills & Expertise  
 📀 **Operating Systems & Networks**  
