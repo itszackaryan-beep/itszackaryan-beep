@@ -1,6 +1,14 @@
 # 💫 About Me: SUMIT KUMAR
 🚀 About Me<br>🔹 Ethical Hacker | Penetration Tester | Cybersecurity Analyst<br>🔹 Expert in Web Security, Network Defense, and Red Teaming<br>🔹 Passionate about Threat Intelligence, SIEM, and Digital Forensics<br>🔹 Strong skills in OSINT, Incident Response, and Secure Coding<br>🔹 Cybersecurity Trainer & Speaker 🎤
-
+## 🏴‍☠️ Skills & Expertise  
+📀 **Operating Systems & Networks**  
+🐧 **Linux:** Kali, Parrot OS, Ubuntu  
+🖥️ **Windows Security:** PowerShell, Sysinternals  
+🌐 **Network Security:** Nmap, Netcat, Aircrack-ng  
+💻 **Penetration Testing:** Metasploit, Burp Suite, SQLmap 
+🖥️ **SIEM & Monitoring:** Splunk, ELK Stack, Suricata  
+🚨 **Incident Response:** Wireshark, Snort, Volatility  
+🔐 **Digital Forensics:** Autopsy, FTK Imager, Sleuth Kit 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sumit-kumar-500b013a9) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sumitkumarthakur4267@gmail.com) 
